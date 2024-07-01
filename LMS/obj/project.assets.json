@@ -6454,19 +6454,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Arambage K D\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repo\\LMS_BackEnd\\LMS\\LMS\\LMS.csproj",
+      "projectUniqueName": "D:\\L2 S1\\software project\\backend\\BACKEND_LMS\\LMS\\LMS.csproj",
       "projectName": "LMS",
-      "projectPath": "C:\\Repo\\LMS_BackEnd\\LMS\\LMS\\LMS.csproj",
-      "packagesPath": "C:\\Users\\Arambage K D\\.nuget\\packages\\",
-      "outputPath": "C:\\Repo\\LMS_BackEnd\\LMS\\LMS\\obj\\",
+      "projectPath": "D:\\L2 S1\\software project\\backend\\BACKEND_LMS\\LMS\\LMS.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "D:\\L2 S1\\software project\\backend\\BACKEND_LMS\\LMS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Arambage K D\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6589,7 +6589,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   },
